@@ -1,6 +1,6 @@
 # Hi there, I'm Dharshan J! 👋
 
-![Banner](https://zdawan.github.io/dharshan.github.io/images/wepik-export-20240407150408CIil.png)
+![Banner](https://repository-images.githubusercontent.com/821492504/2dcf82b4-4371-402f-8518-5be7bb31b34c)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Web_Developer-007ACC?style=for-the-badge&logo=web&logoColor=white" />
