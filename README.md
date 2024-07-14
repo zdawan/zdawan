@@ -11,13 +11,13 @@
 
 I'm a passionate **Web Developer** and **UI/UX Designer** with a knack for creating visually stunning and highly functional digital experiences. My toolset includes a mix of design and development skills, allowing me to bring ideas to life from concept to code.
 
-- 🔭 I’m currently working on: DoMeet Online Meeting 
+- 🔭 I’m currently working on: DoMeet Online Meeting
 - 🌱 I’m learning: Node.js | Next.js
 - 👯 I’m looking to collaborate on: Web Development Frontend | UI UX designing
-- 🤔 I’m looking for help with: backend Development
+- 🤔 I’m looking for help with: Backend Development
 - 💬 Ask me about: HTML, CSS, JS, TS, Tailwind, Figma, Framer
 - 📫 How to reach me: jnr1006262@gmail.com
-- ⚡ Agency: https://zdawan.github.io/Dawan18-Agency/
+- ⚡ Agency: [Dawan18 Agency](https://zdawan.github.io/Dawan18-Agency/)
 
 ## Skills
 
@@ -38,6 +38,10 @@ I'm a passionate **Web Developer** and **UI/UX Designer** with a knack for creat
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clerk-FFFFFF?style=for-the-badge&logo=clerk&logoColor=black" />
 </p>
 
 ## Projects
@@ -46,27 +50,25 @@ I'm a passionate **Web Developer** and **UI/UX Designer** with a knack for creat
 <p align="center">
   <img src="https://via.placeholder.com/300x200.png?text=Project+1+Screenshot" alt="Project 1 Screenshot" style="border-radius: 10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';"/>
 </p>
-Devloped an porfoilio using latest technologies and framework like HTML, CSS, TS, JS, Postgre SQL, NEON db, Clerk, Figma 
+Developed a portfolio using the latest technologies and frameworks like HTML, CSS, TS, JS, PostgreSQL, NEON db, Clerk, Figma
 
 ### DoMeet
 <p align="center">
   <img src="https://via.placeholder.com/300x200.png?text=Project+2+Screenshot" alt="Project 2 Screenshot" style="border-radius: 10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';"/>
 </p>
-Your online meeting app is here - Devloped using Next.js, Tailwind.css, HTML, Clerk, Neon db, VS code, ESLint, Git
-
-
+Your online meeting app is here - Developed using Next.js, Tailwind.css, HTML, Clerk, Neon db, VS Code, ESLint, Git
 
 ## GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=zdawan&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zdawan&theme=radical" alt="GitHub Streak" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zdawan&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
