@@ -48,13 +48,13 @@ I'm a passionate **Web Developer** and **UI/UX Designer** with a knack for creat
 
 ### Portfolio
 <p align="center">
-  <img src="https://via.placeholder.com/300x200.png?text=Project+1+Screenshot" alt="Project 1 Screenshot" style="border-radius: 10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://cdn.dribbble.com/userupload/11213339/file/original-dc86e9604fa1f10ba5139d486e6ea503.png?resize=1024x494" alt="Project 1 Screenshot" style="border-radius: 10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';"/>
 </p>
 Developed a portfolio using the latest technologies and frameworks like HTML, CSS, TS, JS, PostgreSQL, NEON db, Clerk, Figma
 
 ### DoMeet
 <p align="center">
-  <img src="https://via.placeholder.com/300x200.png?text=Project+2+Screenshot" alt="Project 2 Screenshot" style="border-radius: 10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://via.placeholder.com/300x200.png?text=Project+2+Screenshot" alt="DoMeet Screenshot" style="border-radius: 10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';"/>
 </p>
 Your online meeting app is here - Developed using Next.js, Tailwind.css, HTML, Clerk, Neon db, VS Code, ESLint, Git
 
