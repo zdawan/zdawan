@@ -54,7 +54,7 @@ Developed a portfolio using the latest technologies and frameworks like HTML, CS
 
 ### DoMeet
 <p align="center">
-  <img src="https://via.placeholder.com/300x200.png?text=Project+2+Screenshot" alt="DoMeet Screenshot" style="border-radius: 10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://cdn.dribbble.com/userupload/15609100/file/original-4cbae7434c29c7efcfaa85737214ab78.png?resize=1024x431" alt="DoMeet Screenshot" style="border-radius: 10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';"/>
 </p>
 Your online meeting app is here - Developed using Next.js, Tailwind.css, HTML, Clerk, Neon db, VS Code, ESLint, Git
 
