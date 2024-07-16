@@ -44,8 +44,8 @@ I'm a passionate **Web Developer** and **UI/UX Designer** with a knack for creat
   <img src="https://img.shields.io/badge/Clerk-FFFFFF?style=for-the-badge&logo=clerk&logoColor=black" />
 </p>
 
-## Dharshan J's
-  <a align="center" href="https://drive.google.com/file/d/1ZPd3eYE_eUzVP347DYKdKUkjmKvN_Sxz/view"> <img src="https://img.shields.io/badge/Resume-181717?style=for-the-badge&logo=file&logoColor=white" /> </a>
+## Dharshan J's Resume
+  <a align="center" href="https://drive.google.com/file/d/1ZPd3eYE_eUzVP347DYKdKUkjmKvN_Sxz/view"> <img src="https://img.shields.io/badge/Download-181717?style=for-the-badge&logo=file&logoColor=white" /> </a>
 
 ## Projects
 
