@@ -3,7 +3,7 @@
 ![Banner](https://repository-images.githubusercontent.com/821492504/2dcf82b4-4371-402f-8518-5be7bb31b34c)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Web_Developer-007ACC?style=for-the-badge&logo=web&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web_Developer-007ACC?style=for-the-badge&logo=web&logoColor=white" style="hover:bg-black" />
   <img src="https://img.shields.io/badge/UI/UX_Designer-F24E1E?style=for-the-badge&logo=designer&logoColor=white" />
 </p>
 
