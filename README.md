@@ -9,7 +9,7 @@
 
 ## About Me
 
-I'm a passionate **Web Developer** and **UI/UX Designer** with a knack for creating visually stunning and highly functional digital experiences. My toolset includes a mix of design and development skills, allowing me to bring ideas to life from concept to code.
+I'm a passionate **Web Developer** and **UI/UX Designer** and **Freelancer** with a knack for creating visually stunning and highly functional digital experiences. My toolset includes a mix of design and development skills, allowing me to bring ideas to life from concept to code.
 
 - 🔭 I’m currently working on: DoMeet Online Meeting
 - 🌱 I’m learning: Node.js | Next.js
