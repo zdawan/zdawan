@@ -63,17 +63,12 @@ Your online meeting app is here - Developed using Next.js, Tailwind.css, HTML, C
 
 ## GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=zdawan&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+<div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=zdawan&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 100%; max-width: 900px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zdawan&theme=radical" alt="GitHub Streak" style="width: 100%; max-width: 900px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zdawan&layout=compact&theme=radical" alt="Top Languages" style="width: 100%; max-width: 900px;" />
+</div>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zdawan&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zdawan&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ## Contact Me
 
