@@ -7,6 +7,9 @@
   <img src="https://img.shields.io/badge/UI/UX_Designer-F24E1E?style=for-the-badge&logo=designer&logoColor=white" />
 </p>
 
+![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/zdawan&title=Profile%20Views)
+
+
 ## About Me
 
 I'm a passionate **Web Developer** and **UI/UX Designer** and **Freelancer** with a knack for creating visually stunning and highly functional digital experiences. My toolset includes a mix of design and development skills, allowing me to bring ideas to life from concept to code.
