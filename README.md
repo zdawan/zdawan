@@ -14,8 +14,7 @@
 
 I'm a passionate **Web Developer** and **UI/UX Designer** and **Freelancer** with a knack for creating visually stunning and highly functional digital experiences. My toolset includes a mix of design and development skills, allowing me to bring ideas to life from concept to code.
 
-- 🔭 I’m currently working on: DoMeet Online Meeting
-- 🌱 I’m learning: Node.js | Next.js
+- 🔭 I’m currently working on: QR Attendance System
 - 👯 I’m looking to collaborate on: Web Development Frontend | UI UX designing
 - 🤔 I’m looking for help with: Backend Development
 - 💬 Ask me about: HTML, CSS, JS, TS, Tailwind, Figma, Framer
