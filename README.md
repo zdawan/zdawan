@@ -47,7 +47,7 @@ I'm a passionate **Web Developer** and **UI/UX Designer** and **Freelancer** wit
 </p>
 
 ## Dharshan J's Resume
-  <a align="center" href="https://drive.google.com/file/d/1ZPd3eYE_eUzVP347DYKdKUkjmKvN_Sxz/view"> <img src="https://img.shields.io/badge/Download-181717?style=for-the-badge&logo=file&logoColor=white" /> </a>
+  <a align="center" href="https://docs.google.com/document/d/1KjZvabLwN0ODjhwHfT-ig7xu_HAIDfO-/edit?usp=drive_link&ouid=115140179687680426189&rtpof=true&sd=true"> <img src="https://img.shields.io/badge/Download-181717?style=for-the-badge&logo=file&logoColor=white" /> </a>
 
 ## Projects
 
