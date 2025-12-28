@@ -7,8 +7,6 @@
   <img src="https://img.shields.io/badge/UI/UX_Designer-F24E1E?style=for-the-badge&logo=designer&logoColor=white" />
 </p>
 
-![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/zdawan&title=Profile%20Views)
-
 
 ## About Me
 
