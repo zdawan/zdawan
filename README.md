@@ -51,7 +51,7 @@ I'm a passionate **Web Developer** and **UI/UX Designer** and **Freelancer** wit
 
 ### Portfolio
 <p align="center">
-  <img src="https://cdn.dribbble.com/userupload/11213339/file/original-dc86e9604fa1f10ba5139d486e6ea503.png?resize=1024x494" alt="Project 1 Screenshot" style="border-radius: 10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://hoirqrkdgbmvpwutwuwj.supabase.co/storage/v1/object/public/assets/assets/74cd2533-99ad-409f-a8a1-047b1521a45e_3840w.jpg" alt="Project 1 Screenshot" style="border-radius: 10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';"/>
 </p>
 Developed a portfolio using the latest technologies and frameworks like HTML, CSS, TS, JS, PostgreSQL, NEON db, Clerk, Figma
 
