@@ -58,7 +58,7 @@ Developed a portfolio using the latest technologies and frameworks like HTML, CS
 ### AI Bug Tracker
 <p align="center">
   <img width="1200" height="798" alt="image" src="https://github.com/user-attachments/assets/da9fa323-46a6-4391-a4c3-9c5bdccfb0da" />
-" alt="DoMeet Screenshot" style="border-radius: 10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';"/>
+alt="DoMeet Screenshot" style="border-radius: 10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)'/>
 </p>
 An AI-powered bug tracking system with intelligent bug reporting, duplicate detection, severity analysis, developer assignment, and email-based OTP authentication.
 
