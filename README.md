@@ -55,11 +55,12 @@ I'm a passionate **Web Developer** and **UI/UX Designer** and **Freelancer** wit
 </p>
 Developed a portfolio using the latest technologies and frameworks like HTML, CSS, TS, JS, PostgreSQL, NEON db, Clerk, Figma
 
-### DoMeet
+### AI Bug Tracker
 <p align="center">
-  <img src="https://cdn.dribbble.com/userupload/15609100/file/original-4cbae7434c29c7efcfaa85737214ab78.png?resize=1024x431" alt="DoMeet Screenshot" style="border-radius: 10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img width="1200" height="798" alt="image" src="https://github.com/user-attachments/assets/da9fa323-46a6-4391-a4c3-9c5bdccfb0da" />
+" alt="DoMeet Screenshot" style="border-radius: 10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';"/>
 </p>
-Your online meeting app is here - Developed using Next.js, Tailwind.css, HTML, Clerk, Neon db, VS Code, ESLint, Git
+An AI-powered bug tracking system with intelligent bug reporting, duplicate detection, severity analysis, developer assignment, and email-based OTP authentication.
 
 ## GitHub Stats
 
